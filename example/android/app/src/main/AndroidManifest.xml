@@ -67,7 +67,7 @@
 
         <provider
             android:name="androidx.core.content.FileProvider"
-            android:authorities="${applicationId}.flutter_inappwebview.fileprovider"
+            android:authorities="com.fininfinity.eazyfin.fileprovider"
             android:exported="false"
             android:grantUriPermissions="true">
             <meta-data
